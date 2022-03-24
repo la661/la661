@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @la661
-- 👀 I’m interested in ...blockchain delopment/solidity
+- 👀 I’m interested in ...blockchain devlopment/solidity
 - 🌱 I’m currently learning ...solidity and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
